@@ -1,9 +1,7 @@
 streamlit 
 streamlit-option-menu  
 keras 
-cv2
 os
 numpy
-pickle
 tensorflow 
 pandas 
