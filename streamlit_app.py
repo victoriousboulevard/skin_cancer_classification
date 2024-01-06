@@ -78,7 +78,7 @@ def generate_prediction(image):
       model_type = st.radio("Choose a classifier",
       ["***EfficientV2B0***", "***EfficientV2B1***", "***EfficientV2S***"],horizontal =True)
       if model_type:
-        detect_button = st.button('Detect')
+        detect_button = st.button('Classify')
         if detect_button:
           detect_skin_cancer(model_type,display_image)
 
