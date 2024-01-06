@@ -1,3 +1,9 @@
-altair
-pandas
-streamlit
+streamlit 
+streamlit_option_menu  
+keras 
+cv2
+os
+numpy
+pickle
+tensorflow 
+pandas 
